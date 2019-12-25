@@ -1,0 +1,11 @@
+ST7032i.c:316:9:LCD_print_String_prefix	0	static
+ST7032i.c:399:6:rst_LCD	0	static
+ST7032i.c:404:6:LCD_enable	8	static
+ST7032i.c:481:6:LCD_SendCommands	32	static
+ST7032i.c:498:6:LCD_SendDates	32	static
+ST7032i.c:519:6:LCD_SendCommand	24	static
+ST7032i.c:277:6:before_LCD_print	8	static
+ST7032i.c:347:6:LCD_print_String	48	static
+ST7032i.c:386:6:LCD_clear	8	static
+ST7032i.c:413:6:LCD_Init	8	static
+ST7032i.c:531:6:I2C_Scan	16	static
